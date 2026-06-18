@@ -1,0 +1,6 @@
+{
+  "name": "RentLink",
+  "description": "Rental Management, Property Marketplace, and Digital Rent Payment Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
